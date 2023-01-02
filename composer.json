@@ -1,0 +1,12 @@
+{
+    "name": "td-wp-plugin/td-development-utilities",
+    "description": "Development utilities for WordPress.",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robbert van 't Westende",
+            "email": "robbert@totaldesign.com"
+        }
+    ]
+}
